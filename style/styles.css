@@ -257,6 +257,7 @@ header .logo svg .logo-text {
 .empty {
 	font-size: 1.6rem;
 	position: absolute;
+	color: var(--header-text);
 	@media (max-width: 768px) {
 		font-size: 1.2rem;
 	}
